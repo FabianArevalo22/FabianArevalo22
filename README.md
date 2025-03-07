@@ -1,10 +1,14 @@
 ## Olá! Eu sou o Fabián Arevalo
 
 <div style="display: flex">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=FabianArevalo22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianArevalo22&layout=compact&langs_count=16&theme=dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FabianArevalo22&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianArevalo22&layout=compact&langs_count=6&show_icons=true&theme=transparent&card_width=160" />
+</a>
 </div>
-    
+   
 <div style="display: inline-block"><br>
   <img align="center" alt="Fabian-Js" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Fabian-Ts" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
