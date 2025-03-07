@@ -23,4 +23,6 @@
 
 ![Snake animation](https://github.com/FabianArevalo22/FabianArevalo22/blob/output/github-contribution-grid-snake.svg)
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=FabianArevalo22&repo=FabianArevalo22&theme=react)](https://github.com/FabianArevalo22/FabianArevalo22)
+
 
